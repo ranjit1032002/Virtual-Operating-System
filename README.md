@@ -15,4 +15,9 @@ Use This Command:-
 ```bash
  go run ./main.go ./calc.go ./gallary.go ./textEditor.go ./weather.go ./music.go ./news.go
 ```
-![alt text]("C:\Users\ranji\Desktop\Os.png")
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
