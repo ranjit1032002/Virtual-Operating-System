@@ -16,5 +16,5 @@ Use This Command:-
  go run ./main.go ./calc.go ./gallary.go ./textEditor.go ./weather.go ./music.go ./news.go
 ```
 
-##Output
+## Output  
 ![alt text](https://github.com/ranjit1032002/Virtual-Operating-System/blob/master/Resources/Os.png)
