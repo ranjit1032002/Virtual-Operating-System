@@ -15,10 +15,6 @@ Use This Command:-
 ```bash
  go run ./main.go ./calc.go ./gallary.go ./textEditor.go ./weather.go ./music.go ./news.go
 ```
-<img
-src=“https://github.com/ranjit1032002/Virtual-Operating-System/blob/master/Resources/Os.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-[alt text](https://github.com/ranjit1032002/Virtual-Operating-System/blob/master/Resources/Os.png)
+
+##Output
+![alt text](https://github.com/ranjit1032002/Virtual-Operating-System/blob/master/Resources/Os.png)
